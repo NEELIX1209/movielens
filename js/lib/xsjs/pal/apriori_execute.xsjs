@@ -66,3 +66,4 @@ switch ($.request.method) {
     methodNotAllowed();
     break;
 }
+
