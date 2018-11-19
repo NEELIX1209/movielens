@@ -29,4 +29,3 @@ sap.ui.define([], function() {
     isNumeric: isNumeric
   };
 });
-

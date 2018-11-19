@@ -48,7 +48,7 @@
 
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "movielens.html.view.View1",
+			"viewName": "movielens.html.view.demo",
 			"type": "XML"
 		},
 		"dependencies": {
@@ -67,7 +67,7 @@
 			"compact": true,
 			"cozy": true
 		},
-	"models": {
+		"models": {
   "i18n": {
     "type": "sap.ui.model.resource.ResourceModel",
     "settings": {
@@ -136,6 +136,5 @@
   }
 }
 
-			}
-		}
-	
+	}
+}
